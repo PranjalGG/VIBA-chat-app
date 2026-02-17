@@ -1,7 +1,0 @@
-{
-  "name": "VIBA",
-  "description": "VIBA: Your intelligent voice and text companion. Synced with your world.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
